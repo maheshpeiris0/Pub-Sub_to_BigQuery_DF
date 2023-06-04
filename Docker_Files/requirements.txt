@@ -1,0 +1,5 @@
+google-cloud-pubsub==2.17.1
+pandas==2.0.2
+pypi-json==0.3.0
+
+
